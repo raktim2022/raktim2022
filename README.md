@@ -9,7 +9,7 @@ I'm Raktim Banerjee, an Front-End Developer driven by a passion for crafting cap
 * 🌍  I'm based in India, Kolkata
 * ✉️  You can contact me at [raktimbanerjee05@gmail.com](mailto:raktimbanerjee05@gmail.com)
 * 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on CureLife
+* 🤝  I'm open to collaborate
 
 ### Skills
 
