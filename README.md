@@ -1,3 +1,4 @@
+![Raktim Banerjee](./3D_Animation_Style_Create_a_nostalgic_oldschool_retro_banner_w_1%20(1).jpg)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raktim Banerjee
 =======================================================================================================================================
 
@@ -10,6 +11,8 @@ I'm Raktim Banerjee, an Front-End Developer driven by a passion for crafting cap
 * ✉️  You can contact me at [raktimbanerjee05@gmail.com](mailto:raktimbanerjee05@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on CureLife
+
+![Banner](./d928b8b8-d4b3-47fa-af53-e4bf72e6e2a9.gif)
 
 ### Skills
 
