@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif), I'm Raktim Banerjee</h1>
+<h1 align="center">Hi ![](./8aa4595fb24b6ed585dddac4622b2445.gif), I'm Raktim Banerjee</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raktim2022&label=Profile%20views&color=0e75b6&style=flat" alt="raktim2022" /> </p>
