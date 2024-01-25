@@ -1,9 +1,9 @@
-<img height="140" src="./3D_Animation_Style_Create_a_nostalgic_oldschool_retro_banner_w_1 (1).jpg"/>
+<img align="center" height="320" width="100%" src="./3D_Animation_Style_Create_a_nostalgic_oldschool_retro_banner_w_1 (1).jpg"/>
 <h1 align="left">Hi <img height="140" src="./8aa4595fb24b6ed585dddac4622b2445.gif"/> My name is Raktim Banerjee.</h1>
 <h2 align="center">A passionate full-stack developer from India</h2>
 
 ###
-<h2 align="left">My Stats</h2>
+<h1 align="right">:Stats</h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=raktim2022&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=raktim2022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
