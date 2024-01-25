@@ -3,7 +3,6 @@
 <h2 align="center">A passionate full-stack developer from India</h2>
 
 ###
-<h1 align="right">:Stats</h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=raktim2022&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=raktim2022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
