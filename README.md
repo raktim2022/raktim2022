@@ -1,3 +1,4 @@
+<img height="140" src="./3D_Animation_Style_Create_a_nostalgic_oldschool_retro_banner_w_1 (1).jpg"/>
 <h1 align="left">Hi <img height="140" src="./8aa4595fb24b6ed585dddac4622b2445.gif"/> My name is Raktim Banerjee.</h1>
 <h2 align="center">A passionate full-stack developer from India</h2>
 
